@@ -12,7 +12,7 @@ yarn dev
 open the browser on link provided by the terminal
 ```
 
-To make the access simpler, you can access the project on the following link: [Canoe FE example project](https://canoe-fe-example-project.vercel.app/)
+To make the access simpler, you can access the project on the following link: [Canoe FE example project](https://canoe-fe.vercel.app/)
 Also, node modules are included in the repository, but would be great to run `yarn install` before running the project.
 
 All the features in the document are implemented, but there are some improvements that can be made.
